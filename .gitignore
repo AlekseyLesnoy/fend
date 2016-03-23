@@ -32,4 +32,5 @@ Temporary Items
 
 asteroids/
 version-control/
-portfolio/
+portfolio/bower_components
+portfolio/.codekit-cache

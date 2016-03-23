@@ -1,0 +1,39 @@
+* {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+
+  box-sizing: border-box;
+  /*outline: 1px solid red;*/
+}
+
+.title {
+  font-size: 28px;
+  font-weight: normal;
+
+  padding-top: 20px;
+  padding-left: 10px;
+
+  vertical-align: text-bottom;
+  text-transform: uppercase;
+
+  color: #fff;
+  background: #33bebe;
+}
+
+.screenshot {
+  max-width: 460px;
+}
+
+.description {
+  font-size: 18px;
+
+  max-width: 705px;
+  margin-left: 20px;
+
+  color: #7c8b88;
+}
+
+.app {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
