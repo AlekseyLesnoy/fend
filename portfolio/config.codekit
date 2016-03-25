@@ -1809,6 +1809,90 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/responsive-test\/images\/city.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3732,
+		"inputAbbreviatedPath": "\/responsive-test\/images\/city.png",
+		"outputAbbreviatedPath": "\/responsive-test\/images\/city.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/responsive-test\/images\/cloudy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 577,
+		"inputAbbreviatedPath": "\/responsive-test\/images\/cloudy.png",
+		"outputAbbreviatedPath": "\/responsive-test\/images\/cloudy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/responsive-test\/images\/dog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 443663,
+		"inputAbbreviatedPath": "\/responsive-test\/images\/dog.jpg",
+		"outputAbbreviatedPath": "\/responsive-test\/images\/dog.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/responsive-test\/images\/rain.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 520,
+		"inputAbbreviatedPath": "\/responsive-test\/images\/rain.png",
+		"outputAbbreviatedPath": "\/responsive-test\/images\/rain.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/responsive-test\/images\/sunny.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 385,
+		"inputAbbreviatedPath": "\/responsive-test\/images\/sunny.png",
+		"outputAbbreviatedPath": "\/responsive-test\/images\/sunny.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/responsive-test\/images\/weather.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6429,
+		"inputAbbreviatedPath": "\/responsive-test\/images\/weather.png",
+		"outputAbbreviatedPath": "\/responsive-test\/images\/weather.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/responsive-test\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/responsive-test\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/responsive-test\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/responsive-test\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/toplist\/img\/app.png": {
 		"fileType": 32768,
 		"ignore": 0,
